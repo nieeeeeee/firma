@@ -12,6 +12,6 @@ public class Konter {
 
     public void rozladuj(){
         towar = null;
-        
+
     }
 }
